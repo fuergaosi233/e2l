@@ -5,7 +5,9 @@
   </a>
 </p>
 
-> Make Every Webhook 2 Lark Bot
+> Make Every Webhook 2 Lark Custom Bot
+
+## How to get [Lark Custom Bot](https://open.feishu.cn/document/ukTMukTMukTM/ucTM5YjL3ETO24yNxkjN)
 
 ## Author
 
