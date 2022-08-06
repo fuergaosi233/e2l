@@ -11,7 +11,7 @@
 
 ## Author
 
-* Twitter: [@fuergaosi233](https://twitter.com/fuergaosi233)
+* Twitter: [@fuergaosi](https://twitter.com/fuergaosi)
 
 ## Show your support
 
