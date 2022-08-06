@@ -1,0 +1,5 @@
+name = "linear-bot"
+main = "src/index.ts"
+compatibility_date = "2022-08-06"
+[vars]
+LARK_BOT_URL = "" # Fill in your Bot Webhook URL
